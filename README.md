@@ -6,7 +6,9 @@ Details
 [Link](https://arxiv.org/pdf/1704.08063.pdf)(A-softmax loss)
 
 ## Output normal softmax loss
-![Image](statics/softmax.jpg)
+
+![Image](/statics/softmax.JPG)
 
 ## Output A-softmax loss
-![Image](statics/asoft.jpg)
+
+![Image](/statics/asoft.JPG)
